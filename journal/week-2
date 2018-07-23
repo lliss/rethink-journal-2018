@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>REThink @ Drexel 2018 | Laurence Liss | Journal - Week 2</title>
+  <meta name="description" content="Journal and project information for REThink 2018 research program.">
+  <meta name="keywords" content="Drexel, REThink, research experience for teachers, Laurence Liss, machine learning, artificial intelligence">
+  <meta name="viewport" content="width=device-width">
+  <meta property="og:title" content="REThink @ Drexel 2018 | Laurence Liss">
+  <meta property="og:url" content="https://2018.rethink.laurenceliss.com">
+  <meta property="og:description" content="Journal and project information for REThink 2018 research program.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="/images/icons/favicon-196.png" sizes="196x196">
+  <link rel="icon" href="/images/icons/favicon-128.png" sizes="128x128">
+  <link rel="icon" href="/images/icons/favicon-96.png" sizes="64x64">
+  <link rel="icon" href="/images/icons/favicon-64.png" sizes="64x64">
+  <link rel="icon" href="/images/icons/favicon-48.png" sizes="48x48">
+  <link rel="icon" href="/images/icons/favicon-32.png" sizes="32x32">
+  <link rel="icon" href="/images/icons/favicon-16.png" sizes="16x16">
+  <link rel="icon" href="/favicon.png">
+  <link rel="stylesheet" href="/styles/main.css">
+</head>
+<body class="">
+  <nav>
+    <a href="http://rethink.cs.drexel.edu/"><img id="rethink-logo" src="/images/rethink-logo.png" alt="REThink @ Drexel Logo"></a>
+    <ul>
+        
+          <li><a href="/" title="Home Page">Home</a></li>
+        
+          <li><a href="/about-me" title="About Me">About Me</a></li>
+        
+          <li><a href="/mentor" title="Mentor">Mentor</a></li>
+        
+          <li><a href="/project" title="Project">Project</a></li>
+        
+          <li><a href="/journal" title="Journal">Journal</a></li>
+        
+    </ul>
+  </nav>
+  
+  <header>
+    <img id="hero-image" src="/images/tumour_of_bone.jpg" alt="">
+    <h1>Journal - Week 2</h1>
+  </header>
+  <main>
+    <p><a href="/journal">&laquo; Back to Journal Menu</a></p>
+<h2 id="development-begins">Development Begins</h2>
+<p>We began the week with a group meeting and status checkin and discussion and presentations on the social impact of research. This involved discussions related to technology as it relates to law, ethics, and morality. The group spent time working individually on our own social impact statements.</p>
+<p>Jay and I received the latest versions of Dr. Zarella&#39;s algorithms and began to test them. We also began to look at the integration between <a href="https://qupath.github.io/">QuPath</a> and MatLab with the eventual goal of having QuPath be able to call Dr. Zarella&#39;s algorithms and return the processed image data to QuPath for further processing.</p>
+<p>Based on discussions with Dr. Zarella and his team, I decided that WordPress would be a good option to host the documentation and instruction repository. There are several advantages to this platform including the ability for authorized users to instantly add and update new content, the lack of license restrictions, and the large number of designs available. The development site is running on my personal computer and has been updated to include histology images and the Drexel college of medicine logo. I have begun to add sample code to the site to test functions such as ease of use and automatic code syntax highlighting.</p>
+<p>We also met with Dr. Zarella during his lab&#39;s normal weekly meeting. This gave us background on the other projects and current state of the other research he oversees. Dr. Zarella sat with the team to look through the current algorithms, explain the way they are designed and programmed and to provide insight about why certain features of the code look the way they do. Jay and I then spent the rest of the day working with these algorithms to see the step by step behavior of the programs.</p>
+<p>The week concluded with a talk by Ruixue Liu about human-computer interaction as well as status checkins and discussions the aspects of our research that are causing the greatest concern.</p>
+<p>The group concluded with group lunch and then the teams returned to individual research. I coordinated with Drexel Med&#39;s web development team to discuss the options for hosting a new web site.</p>
+
+  </main>
+
+  
+  <footer>
+    <div class="inner">
+      <p id="nsf-logo-container"><img id="nsf-logo" src="/images/nsf_logo.png" alt="NSF Logo"></p>
+      <p><strong><span class="blue">RET</span>hink CS @ Drexel is based upon work supported by the National Science Foundation under Grant No. CNS-1711773.</strong></p>
+      <p class="small">Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</p>
+    </div>
+  </footer>
+
+
+</body>
+</html>

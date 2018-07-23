@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>REThink @ Drexel 2018 | Laurence Liss | Journal - Week 1</title>
+  <meta name="description" content="Journal and project information for REThink 2018 research program.">
+  <meta name="keywords" content="Drexel, REThink, research experience for teachers, Laurence Liss, machine learning, artificial intelligence">
+  <meta name="viewport" content="width=device-width">
+  <meta property="og:title" content="REThink @ Drexel 2018 | Laurence Liss">
+  <meta property="og:url" content="https://2018.rethink.laurenceliss.com">
+  <meta property="og:description" content="Journal and project information for REThink 2018 research program.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="/images/icons/favicon-196.png" sizes="196x196">
+  <link rel="icon" href="/images/icons/favicon-128.png" sizes="128x128">
+  <link rel="icon" href="/images/icons/favicon-96.png" sizes="64x64">
+  <link rel="icon" href="/images/icons/favicon-64.png" sizes="64x64">
+  <link rel="icon" href="/images/icons/favicon-48.png" sizes="48x48">
+  <link rel="icon" href="/images/icons/favicon-32.png" sizes="32x32">
+  <link rel="icon" href="/images/icons/favicon-16.png" sizes="16x16">
+  <link rel="icon" href="/favicon.png">
+  <link rel="stylesheet" href="/styles/main.css">
+</head>
+<body class="">
+  <nav>
+    <a href="http://rethink.cs.drexel.edu/"><img id="rethink-logo" src="/images/rethink-logo.png" alt="REThink @ Drexel Logo"></a>
+    <ul>
+        
+          <li><a href="/" title="Home Page">Home</a></li>
+        
+          <li><a href="/about-me" title="About Me">About Me</a></li>
+        
+          <li><a href="/mentor" title="Mentor">Mentor</a></li>
+        
+          <li><a href="/project" title="Project">Project</a></li>
+        
+          <li><a href="/journal" title="Journal">Journal</a></li>
+        
+    </ul>
+  </nav>
+  
+  <header>
+    <img id="hero-image" src="/images/tumour_of_bone.jpg" alt="">
+    <h1>Journal - Week 1</h1>
+  </header>
+  <main>
+    <p><a href="/journal">&laquo; Back to Journal Menu</a></p>
+<h2 id="planning-and-getting-started">Planning and Getting Started</h2>
+<p>This week began with introductions and lectures from the program directors. Dr. Jeffrey L. Popyack introduced machine learning and concepts surrounding artificial intelligence. Dr. Erin Solovey presented on research techniques and concepts.</p>
+<p>We met with our mentors and talked about possible avenues for our research projects. Dr. Zarella provided me with his research papers to review and use as a jumping off point for further investigation.</p>
+<p>Also working with Dr. Zarella is Jason (Jay) DeFuria who was part of the REThink program in 2015. Jay and I began to look at MatLab programs and algorithms that were developed that year.</p>
+<p>Dr. Zarella met with both Jay and myself to discuss our research projects and present some additional ideas about useful but feasible work that could be accomplished in the six weeks.</p>
+<p>I decided to work with Dr. Zarella&#39;s MatLab algorithms and create an online documentation and tutorial repository. This has the benefit of allowing me to directly work with the programs and reproduce the results and findings and thereby will give me direct exposure with the machine learning techniques employed in Dr. Zarella&#39;s research.</p>
+<p>We were invited to attend the <a href="http://biomed.drexel.edu/neuroergonomics/">2018 International Neuroergonomics Conference</a> which happened to be held at Drexel. I attended poster sessions and the keynote titled <em> Mobile Brain/Body Imaging: A Decade of Emergence</em>.</p>
+<p>I began stubbing out my personal REThink website (this one) and creating a website for the project. I read research on language choices for computer programs and program adoption as well as how software licenses effect project adoption. After discussions with Dr. Zarella, I decided that if I am able to reproduce the original work and document it quickly, I will attempt to port it to Python which is one of the most popular languages for machine learning and would allow students and researchers without MatLab to investigate his findings.</p>
+<p>On Friday, we presented our research ideas to the groups. We discussed the direction each team was taking in their research goals and then had a group lunch to socialize and discuss our work and interests.</p>
+
+  </main>
+
+  
+  <footer>
+    <div class="inner">
+      <p id="nsf-logo-container"><img id="nsf-logo" src="/images/nsf_logo.png" alt="NSF Logo"></p>
+      <p><strong><span class="blue">RET</span>hink CS @ Drexel is based upon work supported by the National Science Foundation under Grant No. CNS-1711773.</strong></p>
+      <p class="small">Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</p>
+    </div>
+  </footer>
+
+
+</body>
+</html>

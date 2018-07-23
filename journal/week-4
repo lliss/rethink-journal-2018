@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>REThink @ Drexel 2018 | Laurence Liss | Journal - Week 4</title>
+  <meta name="description" content="Journal and project information for REThink 2018 research program.">
+  <meta name="keywords" content="Drexel, REThink, research experience for teachers, Laurence Liss, machine learning, artificial intelligence">
+  <meta name="viewport" content="width=device-width">
+  <meta property="og:title" content="REThink @ Drexel 2018 | Laurence Liss">
+  <meta property="og:url" content="https://2018.rethink.laurenceliss.com">
+  <meta property="og:description" content="Journal and project information for REThink 2018 research program.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="/images/icons/favicon-196.png" sizes="196x196">
+  <link rel="icon" href="/images/icons/favicon-128.png" sizes="128x128">
+  <link rel="icon" href="/images/icons/favicon-96.png" sizes="64x64">
+  <link rel="icon" href="/images/icons/favicon-64.png" sizes="64x64">
+  <link rel="icon" href="/images/icons/favicon-48.png" sizes="48x48">
+  <link rel="icon" href="/images/icons/favicon-32.png" sizes="32x32">
+  <link rel="icon" href="/images/icons/favicon-16.png" sizes="16x16">
+  <link rel="icon" href="/favicon.png">
+  <link rel="stylesheet" href="/styles/main.css">
+</head>
+<body class="">
+  <nav>
+    <a href="http://rethink.cs.drexel.edu/"><img id="rethink-logo" src="/images/rethink-logo.png" alt="REThink @ Drexel Logo"></a>
+    <ul>
+        
+          <li><a href="/" title="Home Page">Home</a></li>
+        
+          <li><a href="/about-me" title="About Me">About Me</a></li>
+        
+          <li><a href="/mentor" title="Mentor">Mentor</a></li>
+        
+          <li><a href="/project" title="Project">Project</a></li>
+        
+          <li><a href="/journal" title="Journal">Journal</a></li>
+        
+    </ul>
+  </nav>
+  
+  <header>
+    <img id="hero-image" src="/images/renal_cell_carcinoma.jpg" alt="">
+    <h1>Journal - Week 4</h1>
+  </header>
+  <main>
+    <p><a href="/journal">&laquo; Back to Journal Menu</a></p>
+<h2 id="python-development-and-ongoing-documentation">Python Development and Ongoing Documentation</h2>
+<p>Monday saw the remaining midterm presentations from each of the groups. It was great to see the current status and progress each team has made in only a few weeks.</p>
+<p>Over the week I continued to work on documenting the functions from Dr. Zarella&#39;s work, reproducing the outputs, and porting the first step of the process, that of manual color assignment, to Python.</p>
+<p>On Wednesday after Dr. Zarella&#39;s weekly lab meeting Jay and I worked through our last issue and were able to successfully generate a normalized image using the newest version of MatLab and our altered version of the normalization program. This was a huge milestone as it proved our modifications and updates continued to produce results that were in line with Dr. Zarella&#39;s originally findings and published research.</p>
+<p>I spent the remainder of the week working on the Python port which involves a complex GUI. It is an unfortunate situation that the most complex of the stages of the program is the first stage which relies on manual interaction. GUI programming tends to take a very long time to get correct compared to recreating known or existing algorithms.</p>
+<p>I received feedback from Dr. Zarella about the documentation I&#39;d been working on and will adapt it as per his notes. I also reached out to the web team at the Drexel Medical campus to get information about hosting the new sub-site.</p>
+<p>On Friday I had a major breakthrough with the GUI and was able to successfully have the Python code produce near identical output to the MatLab code. I spent time cleaning up the code and packaging it for use via the Python package manager known as PIP. Some additional comments and notes may be useful but this represents a great success in the status of my work and leads me to feel that I will be able to complete the program with finished work. </p>
+
+  </main>
+
+  
+  <footer>
+    <div class="inner">
+      <p id="nsf-logo-container"><img id="nsf-logo" src="/images/nsf_logo.png" alt="NSF Logo"></p>
+      <p><strong><span class="blue">RET</span>hink CS @ Drexel is based upon work supported by the National Science Foundation under Grant No. CNS-1711773.</strong></p>
+      <p class="small">Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</p>
+    </div>
+  </footer>
+
+
+</body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>REThink @ Drexel 2018 | Laurence Liss | Project</title>
+  <meta name="description" content="Journal and project information for REThink 2018 research program.">
+  <meta name="keywords" content="Drexel, REThink, research experience for teachers, Laurence Liss, machine learning, artificial intelligence">
+  <meta name="viewport" content="width=device-width">
+  <meta property="og:title" content="REThink @ Drexel 2018 | Laurence Liss">
+  <meta property="og:url" content="https://2018.rethink.laurenceliss.com">
+  <meta property="og:description" content="Journal and project information for REThink 2018 research program.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="/images/icons/favicon-196.png" sizes="196x196">
+  <link rel="icon" href="/images/icons/favicon-128.png" sizes="128x128">
+  <link rel="icon" href="/images/icons/favicon-96.png" sizes="64x64">
+  <link rel="icon" href="/images/icons/favicon-64.png" sizes="64x64">
+  <link rel="icon" href="/images/icons/favicon-48.png" sizes="48x48">
+  <link rel="icon" href="/images/icons/favicon-32.png" sizes="32x32">
+  <link rel="icon" href="/images/icons/favicon-16.png" sizes="16x16">
+  <link rel="icon" href="/favicon.png">
+  <link rel="stylesheet" href="/styles/main.css">
+</head>
+<body class="">
+  <nav>
+    <a href="http://rethink.cs.drexel.edu/"><img id="rethink-logo" src="/images/rethink-logo.png" alt="REThink @ Drexel Logo"></a>
+    <ul>
+        
+          <li><a href="/" title="Home Page">Home</a></li>
+        
+          <li><a href="/about-me" title="About Me">About Me</a></li>
+        
+          <li><a href="/mentor" title="Mentor">Mentor</a></li>
+        
+          <li><a href="/project" title="Project">Project</a></li>
+        
+          <li><a href="/journal" title="Journal">Journal</a></li>
+        
+    </ul>
+  </nav>
+  
+  <header>
+    <img id="hero-image" src="/images/renal_cell_carcinoma.jpg" alt="">
+    <h1>Project</h1>
+  </header>
+  <main>
+    <h2 id="development-of-documentation-and-training-tools-for-the-reproduction-and-dissemination-of-histological-research-results">Development of documentation and training tools for the reproduction and dissemination of histological research results</h2>
+<ul>
+<li><strong>Name(s):</strong> Laurence Liss</li>
+<li><strong>Faculty Mentor:</strong> Dr. Mark Zarella and Dr. David Breen</li>
+<li><strong>Affiliates:</strong> Jason DeFuria</li>
+</ul>
+<h3 id="abstract">Abstract</h3>
+<p>In order to promote the continued adoption of published algorithms developed by Dr. Zarella I intend to build a documentation and tutorial repository of said algorithms. We hypothesize that complexity and lack of clear instruction may be hindering some users. The project aims to create a web-based instruction manual that can be continually updated and managed by Dr. Zarella, Dr. Breen, and those working in their labs. A key component of this work will be reproduction of the results along with detailed documentation. A further goal is to provide the algorithms in a language, such as Python. This secondary goal, to begin after successful reproduction and creation of the documentation website, will be to port the algorithms to Python and compare the results of both the original and new versions. I hope that distributing the algorithms in Python will help bring them to an audience that may not otherwise investigate these findings. Using standard web analytics and working with Drexel’s web teams, it should be possible to understand the level of interest in different versions of the software which could be helpful in making future decisions for how development should proceed to ensure the largest possible audience.</p>
+<h3 id="social-relevance-and-potential-impact">Social Relevance and Potential Impact</h3>
+<p>Providing research data and results in an easy to use manner is an often overlooked aspect of the research and publication process. Yet, access to data, technical requirements, and ways to reproduce the results are key to the furthering of scientific knowledge. Further, in the context of Dr. Zarella’s work, the research can help clinicians perform diagnostic work.</p>
+<h3 id="objectives-timeline">Objectives/Timeline</h3>
+<ul>
+<li><strong>Week 1:</strong> Project research and proposal.</li>
+<li><strong>Week 2:</strong> Reproduction of results along with detailed documentation.</li>
+<li><strong>Week 3:</strong> Create web-based instructions and code samples.</li>
+<li><strong>Week 4:</strong> Begin porting programs to Python.</li>
+<li><strong>Week 5:</strong> Continue Python development work.</li>
+<li><strong>Week 6:</strong> Finalize results. Document findings. Prepare poster session.</li>
+</ul>
+<h3 id="resources-needed">Resources Needed</h3>
+<p>MatLab license or access to computers with MatLab installed.
+Programming Requirements: describe here any new code that will need to be written to meet your research goals. This may be for system prototyping, data analysis, or other aspects of your project. Indicate whether you expect to need programming support from the project staff.
+Python versions of the original algorithms will be a goal of the project. Some assistance would be helpful as I have limited familiarity with Python-based machine learning and scientific computing tools.</p>
+<h3 id="new-knowledge-needed">New Knowledge Needed</h3>
+<p>In order to analyze Dr. Zarella’s work and convert it to another programming language, I will have to learn some of the fundamental techniques of machine learning algorithms and how they apply to the work being formed by the algorithms.</p>
+<h3 id="new-classroom-materials">New Classroom Materials</h3>
+<p>I think the most interesting fundamental concept that is essential to the understanding of Dr. Zarella’s work is the idea that the data contained in his normalized image files is not data representing color but is in fact a representation of structural elements. This property allows the images to be recolored in whatever manner is helpful to the human viewer. But this concept could be applied to many different types of images or map-based data. I envision developing a lab that would allow students to build an image viewer based on this concept and allow them to choose different colors for certain structures.</p>
+<p><a href="/files/liss_research_proposal_2018.pdf">Download Project Proposal as PDF</a></p>
+
+  </main>
+
+  
+  <footer>
+    <div class="inner">
+      <p id="nsf-logo-container"><img id="nsf-logo" src="/images/nsf_logo.png" alt="NSF Logo"></p>
+      <p><strong><span class="blue">RET</span>hink CS @ Drexel is based upon work supported by the National Science Foundation under Grant No. CNS-1711773.</strong></p>
+      <p class="small">Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</p>
+    </div>
+  </footer>
+
+
+</body>
+</html>

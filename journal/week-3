@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>REThink @ Drexel 2018 | Laurence Liss | Journal - Week 3</title>
+  <meta name="description" content="Journal and project information for REThink 2018 research program.">
+  <meta name="keywords" content="Drexel, REThink, research experience for teachers, Laurence Liss, machine learning, artificial intelligence">
+  <meta name="viewport" content="width=device-width">
+  <meta property="og:title" content="REThink @ Drexel 2018 | Laurence Liss">
+  <meta property="og:url" content="https://2018.rethink.laurenceliss.com">
+  <meta property="og:description" content="Journal and project information for REThink 2018 research program.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="/images/icons/favicon-196.png" sizes="196x196">
+  <link rel="icon" href="/images/icons/favicon-128.png" sizes="128x128">
+  <link rel="icon" href="/images/icons/favicon-96.png" sizes="64x64">
+  <link rel="icon" href="/images/icons/favicon-64.png" sizes="64x64">
+  <link rel="icon" href="/images/icons/favicon-48.png" sizes="48x48">
+  <link rel="icon" href="/images/icons/favicon-32.png" sizes="32x32">
+  <link rel="icon" href="/images/icons/favicon-16.png" sizes="16x16">
+  <link rel="icon" href="/favicon.png">
+  <link rel="stylesheet" href="/styles/main.css">
+</head>
+<body class="">
+  <nav>
+    <a href="http://rethink.cs.drexel.edu/"><img id="rethink-logo" src="/images/rethink-logo.png" alt="REThink @ Drexel Logo"></a>
+    <ul>
+        
+          <li><a href="/" title="Home Page">Home</a></li>
+        
+          <li><a href="/about-me" title="About Me">About Me</a></li>
+        
+          <li><a href="/mentor" title="Mentor">Mentor</a></li>
+        
+          <li><a href="/project" title="Project">Project</a></li>
+        
+          <li><a href="/journal" title="Journal">Journal</a></li>
+        
+    </ul>
+  </nav>
+  
+  <header>
+    <img id="hero-image" src="/images/tumour_of_bone.jpg" alt="">
+    <h1>Journal - Week 3</h1>
+  </header>
+  <main>
+    <p><a href="/journal">&laquo; Back to Journal Menu</a></p>
+<h2 id="standardizing-outputs-and-troubleshooting-versions-issues">Standardizing Outputs and Troubleshooting Versions Issues</h2>
+<p>This week began with an overview of the mid-project report and presentation that is to be delivered at the very beginning of week 4. We worked on addressing our technical issues in getting access to MatLab and met with the mentor teachers who are helping us review our output and research findings. We spent some time writing about our projects and discussing how to discuss our projects succinctly so that we can talk to others about our research more clearly.</p>
+<p>Dr. Zarella provided me a workstation on which to run MatLab programs and I used sample images cited in his research paper to test his programs. I worked through several of the programs step by step and documented the working of the programs and inputs and outputs to the programs. I spent time researching each algorithm employed by the programs as they process image data and looked for analogous ways to produce these results in Python.</p>
+<p>On Wednesday, the Drexel helpdesk provided me with a laptop that had MatLab installed. This has been tremendously helpful as now I can work on the main Drexel campus. I did find that the newer version of MatLab installed on the machine causes issues for the programs Dr. Zarella had produced. Some functions had been deprecated and removed between versions. In order to update the programs for the new version of MatLab, Jay and I have been trying to generate stable results from the older versions. This has proven to be difficult because the machine learning algorithms being used often start with some element of randomization and iterate to find a suitable solution. This helps prevent certain kinds of problems such as the algorithm finding and stopping on a local maxima or minima. But in our attempt to ensure our updates to the programs are valid, we need to ensure we can produce the same (or nearly the same) results from both versions.</p>
+<p>In addition to the work reproducing the results, I was able to begin my Python port of the first program which is a color reduction function that is used to manually map colors to tissue structures. By Friday I had this well underway and have begun creating the user interface for it. This is a frustrating but necessary element of the program.</p>
+<p>On Friday, we had our group status meeting and heard a talk on machine learning approaches and the common types of algorithms that are used for certain kinds of machine learning tasks. One of the groups gave a midterm presentation on their current work and findings. We then broke for a group lunch.</p>
+<p>Our programming assistant, Shuyi Gu, helped me work on the Python GUI for the manual color assignment program. We aim to have this part completed by the end of next week.</p>
+
+  </main>
+
+  
+  <footer>
+    <div class="inner">
+      <p id="nsf-logo-container"><img id="nsf-logo" src="/images/nsf_logo.png" alt="NSF Logo"></p>
+      <p><strong><span class="blue">RET</span>hink CS @ Drexel is based upon work supported by the National Science Foundation under Grant No. CNS-1711773.</strong></p>
+      <p class="small">Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</p>
+    </div>
+  </footer>
+
+
+</body>
+</html>
