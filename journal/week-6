@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>REThink @ Drexel 2018 | Laurence Liss | Journal - Week 5</title>
+  <title>REThink @ Drexel 2018 | Laurence Liss | Journal - Week 6</title>
   <meta name="description" content="Journal and project information for REThink 2018 research program.">
   <meta name="keywords" content="Drexel, REThink, research experience for teachers, Laurence Liss, machine learning, artificial intelligence">
   <meta name="viewport" content="width=device-width">
@@ -42,14 +42,15 @@
   
   <header>
     <img id="hero-image" src="/images/renal_cell_carcinoma.jpg" alt="">
-    <h1>Journal - Week 5</h1>
+    <h1>Journal - Week 6</h1>
   </header>
   <main>
     <p><a href="/journal">&laquo; Back to Journal Menu</a></p>
-<h2 id="preparing-documentation-site-final-python-debugging">Preparing documentation site &amp; final Python debugging</h2>
-<p>After the normal Monday checkin meetings, we continued to work on finalizing the Python port of the manual color assignment program as well as integrating QuPath with the MATLAB versions of the code.</p>
-<p>Most of the week was spent finalizing these pieces and completing the last bits of documentation. On Wednesday, I sent the draft site to the Drexel Med web team to post. By Thursday, the pages were live and ready for our review. Jason and I attended Dr. Zarella&#39;s lab meeting and showed the current progress to him. We took Dr. Zarella&#39;s feedback and spent the afternoon making some adjustments to our work and completing out poster.</p>
-<p>On Friday, Dr. Popyack, presented an unplugged computer science exercise teaching GIF image encoding and, as a group, we produced a graphic from post-it notes. I spent the remaining afternoon testing the Python library and adding my latest changes to the GitHub repository. I also made changes to the documentation site and added improved graphics.</p>
+<h2 id="presentations-and-conclusion">Presentations and Conclusion</h2>
+<p>During our Monday checkin we examined unplugged computer science exercises used to teach binary numbers. We also reviewed our latest work as a group. Jay and I did our final adjustments to our posters and submitted them to be printed.</p>
+<p>Tuesday and Wednesday were spent completing my lesson plan which involved writing some experimental software that uses an SVM algorithm to predict movie likes and dislikes based on a training set. This will be the hands on component of my lesson. I also spend time fixing minor errors in my Python program which prevent it from running if a small sample image is used.</p>
+<p>Thursday we met as a group for final meetings and to tie up loose ends. We had a group lunch and discussed our parting thoughts on the program and then completed our poster presentations.</p>
+<p>The entire experience was excellent and I look forward to applying again next year.</p>
 
   </main>
 
