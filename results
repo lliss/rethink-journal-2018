@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>REThink @ Drexel 2018 | Laurence Liss | Results & Output</title>
+  <meta name="description" content="Journal and project information for REThink 2018 research program.">
+  <meta name="keywords" content="Drexel, REThink, research experience for teachers, Laurence Liss, machine learning, artificial intelligence">
+  <meta name="viewport" content="width=device-width">
+  <meta property="og:title" content="REThink @ Drexel 2018 | Laurence Liss">
+  <meta property="og:url" content="https://2018.rethink.laurenceliss.com">
+  <meta property="og:description" content="Journal and project information for REThink 2018 research program.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="/images/icons/favicon-196.png" sizes="196x196">
+  <link rel="icon" href="/images/icons/favicon-128.png" sizes="128x128">
+  <link rel="icon" href="/images/icons/favicon-96.png" sizes="64x64">
+  <link rel="icon" href="/images/icons/favicon-64.png" sizes="64x64">
+  <link rel="icon" href="/images/icons/favicon-48.png" sizes="48x48">
+  <link rel="icon" href="/images/icons/favicon-32.png" sizes="32x32">
+  <link rel="icon" href="/images/icons/favicon-16.png" sizes="16x16">
+  <link rel="icon" href="/favicon.png">
+  <link rel="stylesheet" href="/styles/main.css">
+</head>
+<body class="">
+  <nav>
+    <a href="http://rethink.cs.drexel.edu/"><img id="rethink-logo" src="/images/rethink-logo.png" alt="REThink @ Drexel Logo"></a>
+    <ul>
+        
+          <li><a href="/" title="Home Page">Home</a></li>
+        
+          <li><a href="/about-me" title="About Me">About Me</a></li>
+        
+          <li><a href="/mentor" title="Mentor">Mentor</a></li>
+        
+          <li><a href="/project" title="Project">Project</a></li>
+        
+          <li><a href="/results" title="Results & Findings">Results</a></li>
+        
+          <li><a href="/journal" title="Journal">Journal</a></li>
+        
+    </ul>
+  </nav>
+  
+  <header>
+    <img id="hero-image" src="/images/renal_cell_carcinoma.jpg" alt="">
+    <h1>Results & Output</h1>
+  </header>
+  <main>
+    <h2 id="elevator-pitch">Elevator Pitch</h2>
+<p>Part of the goal and progress of science is the reproduction of previous work and adaptation of it in order to further knowledge and further the findings. Often the lack of instruction, documentation, and comments in programs and algorithms produced in research hinder the adoption of these findings in future work.</p>
+<p>Histology is the study of tissue structure and often associated with microscopy and disease diagnosis such as cancer. Hematoxylin and eosin (H&amp;E) stain is a principal technique for assisting pathologists in identifying structures in histology slides.</p>
+<p>Under the guidance of Dr. Mark Zarella, I am reproducing the output of histology image processing algorithms designed to normalize and correct colors in H&amp;E stained histology images. The goal of this work will aid in cancer diagnosis with the ultimate goal of earlier diagnosis and increased survival rates. Based on the knowledge I will gain reproducing the original research findings, I will document the inputs and outputs of the algorithms while developing instructional materials to aid other researchers and doctors in the use and application of the algorithms.</p>
+<p>The original work is created using proprietary software which may exclude some researchers. I intend to reproduce the algorithms in a language that is platform agnostic and unencumbered by license restrictions, notably Python, to allow them to be used by a wider range of interested parties.</p>
+<h2 id="poster">Poster</h2>
+<p><img src="/images/lliss-final-poster.jpg" style="width:100%;" alt="final rethink poster"></p>
+<p><a href="/files/lliss-final-poster.pdf">view as pdf &raquo;</a></p>
+<h2 id="lesson-plan">Lesson Plan</h2>
+<p><a href="/files/2018-rethink-lesson-plan-lliss.pdf">view as pdf &raquo;</a></p>
+<ul>
+<li><strong>Unit:</strong> Big Data/Algorithms</li>
+<li><strong>Subject/Course:</strong> JavaScript/Algorithms</li>
+<li><strong>Grade Level:</strong> College</li>
+<li><strong>Preparation Time:</strong> 1 hour</li>
+<li><strong>Estimated Length:</strong> 2.5 hours</li>
+</ul>
+<h3 id="objectives">Objectives</h3>
+<p><strong>Students will be able to:</strong></p>
+<p>Summarize the usage and relevance of machine learning algorithms such as SVM and kmeans and explain how they relate to predictive computer programs.</p>
+<h3 id="social-impact-relevance">Social Impact/Relevance</h3>
+<p>Using computers to make predictions in a given problem space is essential in allowing expert knowledge to scale. For instance, in the field of cancer diagnosis, prediction is generally made by a human expert after reviewing a tissue sample (histological slide) and assessing the relative arrangements of tissue structures such as cell nuclei. Creating computer algorithms that can rate probabilities based on a digital version of the same slide can reduce the burden on high level expert staff the time necessary to diagnose cancer by allowing experts to focus only images with high probability or ambiguous structures. In resource restricted environments, this could also allow a few experts to treat many more patients.</p>
+<h3 id="assessment-evidence">Assessment Evidence</h3>
+<p>Students will engage in classroom discussion and submit a written discussion about problems that can be solved using machine learning.</p>
+<p>Students will take a quiz on basic machine learning concepts.</p>
+<h3 id="lesson-activity-outline">Lesson Activity/Outline</h3>
+<p>The lesson will begin with an overview of separating data. Students will see data sets that can be split using lines on a cartesian plane. This will lead to a discussion of the ideas of supervised vs unsupervised learning and a the workings of kmeans and SVM algorithms.</p>
+<p>Using a pre-created dataset of movies, students will rate movies that they have seen as “liked” or “disliked”. This will create a training data set that can be fed to a pre-created program used to make predictions about other movies that the student might like or dislike. Students will select a list of 10 movies they have seen to test the program’s accuracy. As students rate more movies, the program should increase in accuracy. Thus they will begin to understand the concepts of training sets, testing sets, and prediction as well as the importance of having large data sets when working with machine learning algorithms.</p>
+<h3 id="teacher-reflection-notes">Teacher Reflection Notes</h3>
+<p>Can also work well in an online setting particularly if the program can be converted to a web based application.</p>
+<h3 id="modifications-accommodations">Modifications, accommodations</h3>
+<p>With proper data sets this could be adjusted to work with music, books or other media.</p>
+
+  </main>
+
+  
+  <footer>
+    <div class="inner">
+      <p id="nsf-logo-container"><img id="nsf-logo" src="/images/nsf_logo.png" alt="NSF Logo"></p>
+      <p><strong><span class="blue">RET</span>hink CS @ Drexel is based upon work supported by the National Science Foundation under Grant No. CNS-1711773.</strong></p>
+      <p class="small">Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</p>
+    </div>
+  </footer>
+
+
+</body>
+</html>
